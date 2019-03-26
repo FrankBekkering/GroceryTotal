@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculatrice totol d\'épicerie</string>
+    <string name="taxable_checkbox_label">la taxe</string>
+    <string name="taxable_label">la taxe</string>
+    <string name="add_item_button_label">ajouter un item</string>
+    <string name="reset_button_label">réinitialiser</string>
+    <string name="initial_total_amount">$0.00</string>
+    <string name="save_as_default_checkbocx_label">Enregistrer par défaut</string>
+    <string name="start_shopping_button_label">Commencez à acheter</string>
+    <string name="enterTaxOpeningScreenText">Entrez le pourcentage de la taxe locale</string>
+    <string name="exampleTaxAmount">15</string>
+</resources>

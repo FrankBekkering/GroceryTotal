@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lebensmittelgeschäft läuft insgesamt</string>
+    <string name="taxable_checkbox_label">Steuerpflichtig</string>
+    <string name="taxable_label">Steuerpflichtig</string>
+    <string name="add_item_button_label">Artikel hinzufügen</string>
+    <string name="reset_button_label">Zurücksetzen</string>
+    <string name="initial_total_amount">$0.00</string>
+    <string name="save_as_default_checkbocx_label">Als Standard speichern</string>
+    <string name="start_shopping_button_label">Einkauf beginnen</string>
+    <string name="enterTaxOpeningScreenText">Bitte geben Sie den lokalen Steueranteil ein</string>
+    <string name="exampleTaxAmount">15</string>
+</resources>
