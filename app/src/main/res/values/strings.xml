@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">GroceryTotal</string>
+    <string name="app_name">Grocery Totaller</string>
+    <string name="taxable_checkbox_label">taxable</string>
+    <string name="taxable_label">taxable</string>
+    <string name="add_item_button_label">Add Item</string>
+    <string name="reset_button_label">Reset</string>
+    <string name="initial_total_amount">$0.00</string>
+    <string name="save_as_default_checkbocx_label">Save as default</string>
+    <string name="start_shopping_button_label">Start Shopping</string>
+    <string name="enterTaxOpeningScreenText">Please enter the local  tax percentage</string>
+    <string name="exampleTaxAmount">15</string>
 </resources>

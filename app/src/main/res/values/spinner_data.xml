@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_content">
+        <item>x1</item>
+        <item>x2</item>
+        <item>x3</item>
+        <item>x4</item>
+        <item>x5</item>
+        <item>x6</item>
+        <item>x7</item>
+        <item>x8</item>
+        <item>x9</item>
+        <item>x10</item>
+        <item>x12</item>
+        <item>x24</item>
+    </string-array>
+</resources>
